@@ -19,3 +19,7 @@ model Event {
 
   @@map("events")
 }
+
+model Attendee {
+  
+}
